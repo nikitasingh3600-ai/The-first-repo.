@@ -1,5 +1,14 @@
 # The-first-repo.
- This is first Repository
- Author-Nikita Singh
+
+
+My first Python project
+
+## Tech Used
+- Python
+
+## Author
+Nikita Singh
+
+
 
 
